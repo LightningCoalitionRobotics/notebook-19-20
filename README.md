@@ -7,5 +7,6 @@ The notebook is written in LaTex. We have a template (template.tex) for our team
 * Source is for Latex files
 * Output is for compiled Latex/PDF files
 * Resources is for pictures or scanned sketches, but these can also be kept in Google Drive or in the notebook files themselves.
+* Bios is for the team biographies.
 
 This format can be changed if the team feels it would be better organized another way.
